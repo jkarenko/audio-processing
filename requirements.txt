@@ -1,2 +1,6 @@
-torch~=1.13.0.dev20220617
-torchaudio~=0.13.0.dev20220617
+torch~=1.11.0+cu113
+torchaudio~=0.11.0+cu113
+
+# for cpu only environment
+# torch~=1.11.0
+# torchaudio~=0.11.0
